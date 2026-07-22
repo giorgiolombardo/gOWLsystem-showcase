@@ -4,7 +4,7 @@
 
 ---
 
-## 💡 Cos'è e a cosa serve
+## 💡 Cos' è? A cosa serve?
 
 Il sistema automatizza il flusso di lavoro che va dall'ortofoto multispettrale/RGB generata da drone alla mappa finale caricabile sui computer di bordo delle macchine agricole (trattori, spandiconcime, atomizzatori).
 
