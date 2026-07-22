@@ -37,5 +37,5 @@ Il sistema automatizza il flusso di lavoro che va dall'ortofoto multispettrale/R
 Sei un agronomo, una cantina o un terzista interessato a testare il sistema o a integrare il flusso nei tuoi vigneti?
 
 * **LinkedIn:** https://www.linkedin.com/in/giorgio-lombardo-796751362
-* **Zona operativa:** Lombardia e limitrofi
+* **Zona operativa:** Lombardia e regioni limitrofe
 
